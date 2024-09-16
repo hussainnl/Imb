@@ -1,22 +1,13 @@
-# Contributing to This Project
+# Contributor Code of Conduct
 
-We welcome contributions from everyone. By contributing, you help make this project better and more useful.
+## Our Pledge
+We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity, level of experience, education, socioeconomic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
-## How to Contribute
+## Our Standards
+Examples of behavior that contributes to a positive environment for our community include:
+- Being respectful to others
+- Gracefully accepting constructive feedback
+- Focusing on what is best for the community
 
-### Reporting Bugs
-- Ensure the issue has not already been reported by searching the issues.
-- Clearly describe the problem, including steps to reproduce it.
-
-### Submitting Pull Requests
-- Fork the repository and create a new branch for your contribution.
-- Make sure your code is well-documented and follows the project’s coding standards.
-- Open a pull request and provide a clear description of your changes.
-
-### Code Style
-- Follow the existing code style in the project.
-- Ensure that your code is clean and well-structured.
-
-## Contact
-If you have any questions or need further clarification, feel free to contact us through the project repository.
-
+## Enforcement
+Community leaders are responsible for clarifying the standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate.
